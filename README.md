@@ -11,10 +11,12 @@ Currently pursuing my MSc in Data Science, I’m passionate about applying **ana
 ---
 
 ## 🛠 Tech Stack
+
 - **Languages:** Python, R, Wolfram Language, SQL  
 - **Data Science & ML:** pandas, NumPy, scikit-learn, statsmodels, Mathematica  
 - **Visualization:** Matplotlib, seaborn, Plotly, ggplot2  
-- **Other Tools:** R Shiny, Quarto, Git, Jupyter  
+- **Development Environments:** PyCharm, Jupyter Notebook, RStudio / Positron  
+- **Other Tools:** Git, GitHub, Quarto, R Shiny
 
 ---
 
@@ -22,7 +24,7 @@ Currently pursuing my MSc in Data Science, I’m passionate about applying **ana
 
 🔹 [Well Intervention Optimization with AI](#) – *(In Progress)* Applying ML to minimize NPT and optimize operations  
 🔹 [Energy Time-Series Forecasting](#) – *(In Progress)* Predicting well time & energy demand using ML + Monte Carlo simulation  
-🔹 [NBA Finals Predictor](#) – Fun ML project predicting winners & MVPs  
+🔹 [NBA Finals Predictor](#) – *(In Progress)* Fun ML project predicting winners & MVPs  
 
 ---
 
