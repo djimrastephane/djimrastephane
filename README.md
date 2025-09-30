@@ -10,21 +10,20 @@ Currently pursuing my MSc in Data Science, I’m passionate about applying **ana
 
 ---
 
-## 🛠 Tech Stack
-
-- **Languages:** Python, R, Wolfram Language, SQL  
-- **Data Science & ML:** pandas, NumPy, scikit-learn, statsmodels, Mathematica  
-- **Visualization:** Matplotlib, seaborn, Plotly, ggplot2  
-- **Development Environments:** PyCharm, Jupyter Notebook, RStudio / Positron  
-- **Other Tools:** Git, GitHub, Quarto, R Shiny
+## 🛠️ Tech Stack
+- 💻 **Languages:** Python 🐍, R 📊, SQL 🗂️, Wolfram Language ⚛️  
+- 🤖 **Data Science & ML:** pandas, NumPy, scikit-learn, statsmodels, Mathematica  
+- 📈 **Visualization:** Matplotlib, seaborn, Plotly, ggplot2  
+- 🖥️ **Development Environments:** PyCharm, Jupyter Notebook, RStudio / Positron, VS Code  
+- 🛠️ **Other Tools:** Git, GitHub, Quarto, R Shiny  
 
 ---
 
 ## 🚀 Highlighted Projects
-
-🔹 [Well Intervention Optimization with AI](#) – *(In Progress)* Applying ML to minimize NPT and optimize operations  
-🔹 [Energy Time-Series Forecasting](#) – *(In Progress)* Predicting well time & energy demand using ML + Monte Carlo simulation  
-🔹 [NBA Finals Predictor](#) – *(In Progress)* Fun ML project predicting winners & MVPs  
+- 🔹 [**Well Intervention Optimization with AI**](#) – *(In Progress)* Applying ML to minimize NPT and optimize operations  
+- 🔹 [**Energy Time-Series Forecasting**](#) – *(In Progress)* Predicting well time & energy demand using ML + Monte Carlo simulation  
+- 🔹 [**Guinea Worm Infection Spread Analysis**](#) – MSc project on clustering, visualization, and forecasting disease spread  
+- 🔹 [**NBA Finals Predictor**](#) – Fun ML project predicting winners & MVPs  
 
 ---
 
