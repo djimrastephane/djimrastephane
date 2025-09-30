@@ -28,4 +28,4 @@ Currently pursuing my MSc in Data Science, I’m passionate about applying **ana
 
 ## 🌍 Let’s Connect
 - 💼 [LinkedIn](linkedin.com/in/djimra-stephane-soulanoudjingar-3078a055)  
-- 📧 [your.email@example.com](mailto:djimra_stephane@hotmail.com)  
+- 📧 [djimra_stephane@hotmail.com](mailto:djimra_stephane@hotmail.com)  
