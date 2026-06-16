@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Stephane Soulanoudjingar
+# 👋 Hi, I'm Djimra Stephane Soulanoudjingar
 
 ### Data Scientist | Well Intervention & Completions Engineer | MSc Data Science | Industrial AI & RAG Systems
 
