@@ -2,6 +2,9 @@
 
 ### Data Scientist | Well Intervention & Completions Engineer | MSc Data Science | Industrial AI & RAG Systems
 
+![Profile views](https://komarev.com/ghpvc/?username=djimrastephane&color=blue&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djimra-stephane-soulanoudjingar-3078a055)
+
 I combine 17+ years of operational experience in oil and gas with modern data science, machine learning, AI, and industrial analytics platforms to build practical decision-support systems for complex engineering environments.
 
 My work focuses on transforming operational data, engineering reports, and technical knowledge into searchable, explainable, and actionable intelligence.
@@ -32,7 +35,7 @@ AI-powered operational intelligence platform that transforms Daily Drilling Repo
 - Campaign planning support
 - Traceable evidence-backed recommendations
 
-### MSc Thesis
+### MSc Thesis — [EvidenceRAG-Evaluation](https://github.com/djimrastephane/EvidenceRAG-Evaluation)
 
 Evaluating Hybrid Retrieval for Grounded Question Answering over Long-Form Reports.
 
@@ -97,14 +100,14 @@ Platform that converts completion and hydraulic fracturing spreadsheets into sea
 
 ## 📂 Featured Projects
 
-| Project | Description |
-|---|---|
-| DDR Intelligence Platform | AI-powered drilling report analytics, sequence mining, operational intelligence, and risk detection |
-| Completion Campaign Intelligence | NLP-driven intelligence platform for completion and stimulation campaigns |
-| RAG Evaluation Framework | Hybrid retrieval, grounded QA, and retrieval performance evaluation |
-| Guinea Worm Surveillance Analytics | Geospatial analytics, forecasting, and disease surveillance |
-| Well Performance Analytics | Operational benchmarking, forecasting, and performance analysis |
-| CCS Well Integrity Intelligence | Data-informed risk assessment and intervention planning for CCS wells |
+| Project | Description | Access |
+|---|---|---|
+| [EvidenceRAG-Evaluation](https://github.com/djimrastephane/EvidenceRAG-Evaluation) | Hybrid dense + BM25 retrieval-augmented generation pipeline with a reproducible evaluation harness, built on PDF annual reports (MSc thesis project) | Public |
+| [Frac_Campaign_Planning](https://github.com/djimrastephane/Frac_Campaign_Planning) | Monte Carlo simulator for multi-pad hydraulic fracturing campaign planning, scheduling, risk, and scenario optimisation | Public |
+| [GP_Screens_Analysis](https://github.com/djimrastephane/GP_Screens_Analysis) | Computer vision pipeline for detecting, classifying, and quantifying failure modes on failed gravel pack screens | Public |
+| DDR Intelligence Platform | AI-powered drilling report analytics, sequence mining, operational intelligence, and risk detection | Private — available on request |
+| Completion Campaign Intelligence | NLP-driven intelligence platform for completion and stimulation campaigns | Private — available on request |
+| CCS Well Integrity Intelligence | Data-informed risk assessment and intervention planning for CCS wells | Private — available on request |
 
 ---
 
@@ -133,6 +136,13 @@ Platform that converts completion and hydraulic fracturing spreadsheets into sea
 - Knowledge Extraction
 - Information Retrieval
 - Operational Analytics
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=djimrastephane&show_icons=true&theme=default&hide_title=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djimrastephane&layout=compact)
 
 ---
 
