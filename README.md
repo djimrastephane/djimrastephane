@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Djimra Stephane Soulanoudjingar
 
-### Industrial AI Engineer | Author | Data Scientist | Completions & Well Intervention Engineer
+### Industrial AI for Energy Operations | Data Scientist | Completions & Well Intervention Engineer | Author
 
 ![Profile views](https://komarev.com/ghpvc/?username=djimrastephane&color=blue&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djimra-stephane-soulanoudjingar-3078a055)
