@@ -13,7 +13,7 @@
 
 **[Building Industrial RAG Systems from Daily Drilling Reports](https://djimrastephane.github.io/ddr-rag-book/)**
 
-A hands-on book teaching engineers to build retrieval-augmented generation (RAG) systems directly on Daily Drilling Reports — an extension of the same operational intelligence work behind the DDR Intelligence Platform below, written up as a complete, teachable system. It covers:
+A free, hands-on book teaching engineers to build retrieval-augmented generation (RAG) systems directly on Daily Drilling Reports. Written to help fellow drilling and completions engineers apply these methods to their own reports and workflows, not as a commercial product — an extension of the same operational intelligence work behind the DDR Intelligence Platform below. It covers:
 
 - AI applications for Daily Drilling Reports
 - Retrieval-augmented generation (RAG), from keyword search through hybrid retrieval
