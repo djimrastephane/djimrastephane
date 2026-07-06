@@ -1,23 +1,38 @@
 # 👋 Hi, I'm Djimra Stephane Soulanoudjingar
 
-### Data Scientist | Well Intervention & Completions Engineer | MSc Data Science | Industrial AI & RAG Systems
+### Industrial AI Engineer | Author | Data Scientist | Completions & Well Intervention Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=djimrastephane&color=blue&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djimra-stephane-soulanoudjingar-3078a055)
 
-I combine 17+ years of operational experience in oil and gas with modern data science, machine learning, AI, and industrial analytics platforms to build practical decision-support systems for complex engineering environments.
+**Industrial AI for Energy Operations.** I combine 17+ years of completions and well intervention experience with an MSc in Data Science to build AI systems that turn operational reports and engineering knowledge into traceable, evidence-backed decision support — built for the constraints of real drilling and completions operations, not generic machine learning demos.
 
-My work focuses on transforming operational data, engineering reports, and technical knowledge into searchable, explainable, and actionable intelligence.
+---
+
+## 📖 Author
+
+**[Building Industrial RAG Systems from Daily Drilling Reports](https://djimrastephane.github.io/ddr-rag-book/)**
+
+A hands-on book teaching engineers to build retrieval-augmented generation (RAG) systems directly on Daily Drilling Reports — an extension of the same operational intelligence work behind the DDR Intelligence Platform below, written up as a complete, teachable system. It covers:
+
+- AI applications for Daily Drilling Reports
+- Retrieval-augmented generation (RAG), from keyword search through hybrid retrieval
+- Engineering knowledge extraction from unstructured operational text
+- Traceable, evidence-backed AI systems — every generated answer cites its source
+- Lessons-learned extraction from historical reports
+- Human-in-the-loop workflows for engineering review
+- Practical implementation for drilling and completions operations, grounded in a real, public well archive
+
+[Read online](https://djimrastephane.github.io/ddr-rag-book/) · [Source & code](https://github.com/djimrastephane/ddr-rag-book)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 MSc Data Science
-- 🛢️ 17+ years in Completions, Well Intervention, Sand Control, Hydraulic Fracturing, and Production Enhancement
-- 🌍 International experience across multiple countries, operators, and operating environments
-- 🤖 Building AI-powered operational intelligence systems for engineering workflows
-- 📊 Experienced in machine learning, statistical analysis, RAG systems, and engineering analytics
+- 🛢️ **Field operations:** 17+ years in Completions, Well Intervention, Sand Control, Hydraulic Fracturing, and Production Enhancement, across multiple countries and operators
+- 🎓 **Data science:** MSc Data Science, applied to engineering and operational problems rather than generic modelling exercises
+- 🤖 **Industrial AI:** building AI-powered operational intelligence systems — RAG, hybrid search, knowledge extraction — for engineering workflows
+- ✍️ **Technical author:** published on applying RAG and AI to drilling operations (see 📖 Author above)
 
 ---
 
@@ -25,76 +40,25 @@ My work focuses on transforming operational data, engineering reports, and techn
 
 ### DDR Intelligence Platform
 
-AI-powered operational intelligence platform that transforms Daily Drilling Reports into structured engineering knowledge.
-
-- Semantic search across drilling campaigns
-- Well similarity analysis
-- Operational sequence mining
-- NPT identification and precursor analysis
-- Lessons learned extraction
-- Campaign planning support
-- Traceable evidence-backed recommendations
+AI-powered operational intelligence platform that transforms Daily Drilling Reports into structured engineering knowledge — semantic search, well similarity analysis, operational sequence mining, NPT precursor analysis, lessons-learned extraction, and traceable, evidence-backed recommendations.
 
 ### MSc Thesis — [EvidenceRAG-Evaluation](https://github.com/djimrastephane/EvidenceRAG-Evaluation)
 
-Evaluating Hybrid Retrieval for Grounded Question Answering over Long-Form Reports.
-
-- BM25 retrieval
-- Dense retrieval
-- Reciprocal Rank Fusion
-- FAISS vector search
-- Retrieval evaluation
-- Hallucination reduction
-- Grounded AI systems
+Evaluating hybrid retrieval (BM25 + dense + Reciprocal Rank Fusion) for grounded question answering over long-form reports, with a reproducible retrieval evaluation harness and a hallucination-reduction focus.
 
 ### Completion Campaign Intelligence
 
-Platform that converts completion and hydraulic fracturing spreadsheets into searchable operational intelligence.
-
-- Automated data ingestion
-- NLP-based engineering comment analysis
-- Delay and failure analysis
-- Fleet performance benchmarking
-- Lessons learned extraction
-- Natural language querying
+Converts completion and hydraulic fracturing spreadsheets into searchable operational intelligence — automated ingestion, NLP-based engineering comment analysis, delay/failure analysis, and fleet performance benchmarking.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Core Stack
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white)
-
-### Data Science & Machine Learning
-
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### AI & LLM Engineering
-
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-008080?style=for-the-badge)
-![Vector_Search](https://img.shields.io/badge/Vector_Search-2E8B57?style=for-the-badge)
-
-### Data Applications & Platforms
-
-![Dataiku](https://img.shields.io/badge/Dataiku-00B140?style=for-the-badge&logo=dataiku&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![R Shiny](https://img.shields.io/badge/R%20Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-1384C8?style=for-the-badge&logo=quarto&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+- **Languages:** Python · R · SQL
+- **AI & Retrieval:** RAG · FAISS · Hybrid Search (BM25 + Dense) · LLM Evaluation
+- **Data Science:** pandas · NumPy · scikit-learn · Statistical & Time Series Analysis
+- **Platforms:** Dataiku · Streamlit · Quarto · Jupyter
+- **Tooling:** Git · GitHub · PyCharm
 
 ---
 
@@ -113,29 +77,9 @@ Platform that converts completion and hydraulic fracturing spreadsheets into sea
 
 ## 🎯 Core Expertise
 
-### Oil & Gas
+**Oil & Gas:** Well Intervention · Completions Engineering · Sand Control · Hydraulic Fracturing · Artificial Lift · Workovers · Well Integrity · Decommissioning · CCS Wells
 
-- Well Intervention
-- Completions Engineering
-- Sand Control
-- Hydraulic Fracturing
-- Artificial Lift
-- Workovers
-- Well Integrity
-- Decommissioning
-- CCS Wells
-
-### Data Science & AI
-
-- Machine Learning
-- Statistical Analysis
-- Predictive Modelling
-- Time Series Analysis
-- Retrieval-Augmented Generation
-- Hybrid Search Systems
-- Knowledge Extraction
-- Information Retrieval
-- Operational Analytics
+**Data Science & AI:** Machine Learning · Predictive Modelling · Time Series Analysis · Retrieval-Augmented Generation · Hybrid Search · Knowledge Extraction · Information Retrieval · Operational Analytics
 
 ---
 
@@ -154,4 +98,4 @@ Platform that converts completion and hydraulic fracturing spreadsheets into sea
 
 ---
 
-> Combining engineering expertise, data science, and AI to transform operational data into decision intelligence.
+> Industrial AI for energy operations — turning field experience and engineering reports into traceable, evidence-backed intelligence.
