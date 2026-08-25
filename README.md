@@ -48,9 +48,9 @@ A free, hands-on book teaching engineers to build retrieval-augmented generation
 | [Frac_Campaign_Planning](https://github.com/djimrastephane/Frac_Campaign_Planning) | Monte Carlo simulator for multi-pad hydraulic fracturing campaign scheduling, risk, and scenario optimisation | R · Shiny | Public |
 | [GP_Screens_Analysis](https://github.com/djimrastephane/GP_Screens_Analysis) | Computer vision pipeline detecting, classifying, and quantifying failure modes on failed gravel pack screens | Python · OpenCV · YOLO (Ultralytics) | Public |
 | [AI Home Energy Intelligence Platform](https://github.com/djimrastephane/energy_ai) | Local-first, deterministic home energy analyst — weather-adjusted regression, 8-model forecasting, anomaly detection, and an evidence-cited Q&A consultant, no cloud or LLM required | Python · Streamlit | Public |
+| [ccs-workover-forecast](https://github.com/djimrastephane/ccs-workover-forecast) | Reliability-driven Monte Carlo simulator for CCS well workover and intervention demand forecasting | Python · SciPy · lifelines · Streamlit | Public |
 | DDR Intelligence Platform | AI-powered drilling report analytics: sequence mining, NPT precursor detection, and semantic search | — | Private — available on request |
 | Completion Campaign Intelligence | NLP-driven intelligence platform for completion and stimulation campaigns | Python · NLP · Local LLM (Ollama) | Private — available on request |
-| CCS Well Integrity Intelligence | Data-informed risk assessment and intervention planning for CCS wells | — | Private — available on request |
 
 ---
 
