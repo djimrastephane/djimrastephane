@@ -69,6 +69,7 @@ Converts completion and hydraulic fracturing spreadsheets into searchable operat
 | [EvidenceRAG-Evaluation](https://github.com/djimrastephane/EvidenceRAG-Evaluation) | Hybrid dense + BM25 retrieval-augmented generation pipeline with a reproducible evaluation harness, built on PDF annual reports (MSc thesis project) | Public |
 | [Frac_Campaign_Planning](https://github.com/djimrastephane/Frac_Campaign_Planning) | Monte Carlo simulator for multi-pad hydraulic fracturing campaign planning, scheduling, risk, and scenario optimisation | Public |
 | [GP_Screens_Analysis](https://github.com/djimrastephane/GP_Screens_Analysis) | Computer vision pipeline for detecting, classifying, and quantifying failure modes on failed gravel pack screens | Public |
+| [AI Home Energy Intelligence Platform](https://github.com/djimrastephane/energy_ai) | Local-first, deterministic home energy analyst — weather-adjusted regression, 8-model forecasting, anomaly detection, and an evidence-cited Q&A consultant, no cloud or LLM required | Public |
 | DDR Intelligence Platform | AI-powered drilling report analytics, sequence mining, operational intelligence, and risk detection | Private — available on request |
 | Completion Campaign Intelligence | NLP-driven intelligence platform for completion and stimulation campaigns | Private — available on request |
 | CCS Well Integrity Intelligence | Data-informed risk assessment and intervention planning for CCS wells | Private — available on request |
