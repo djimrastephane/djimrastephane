@@ -4,8 +4,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=djimrastephane&color=blue&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djimrasoulanoudjingar)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:stephane.djimra@gmail.com)
 
-**Industrial AI for Energy Operations.** I combine 17+ years of completions and well intervention experience with an MSc in Data Science to build AI systems that turn operational reports and engineering knowledge into traceable, evidence-backed decision support — built for the constraints of real drilling and completions operations, not generic machine learning demos.
+I build AI and data systems for energy operations — combining 17+ years in completions and well intervention across multiple countries and operators with an MSc in Data Science applied to real engineering problems, not generic modelling exercises. My focus: retrieval-augmented generation, operational report intelligence, and evidence-backed decision support for drilling and completions workflows.
 
 ---
 
@@ -13,42 +14,19 @@
 
 **[Building Industrial RAG Systems from Daily Drilling Reports](https://djimrastephane.github.io/ddr-rag-book/)**
 
-A free, hands-on book teaching engineers to build retrieval-augmented generation (RAG) systems directly on Daily Drilling Reports. Written to help fellow drilling and completions engineers apply these methods to their own reports and workflows, not as a commercial product — an extension of the same operational intelligence work behind the DDR Intelligence Platform below. It covers:
+A free, hands-on book teaching engineers to build retrieval-augmented generation systems directly on Daily Drilling Reports — written for fellow drilling and completions engineers to apply to their own workflows, not as a commercial product. It covers:
 
-- AI applications for Daily Drilling Reports
-- Retrieval-augmented generation (RAG), from keyword search through hybrid retrieval
+- RAG, from keyword search through hybrid retrieval
 - Engineering knowledge extraction from unstructured operational text
-- Traceable, evidence-backed AI systems — every generated answer cites its source
-- Lessons-learned extraction from historical reports
-- Human-in-the-loop workflows for engineering review
-- Practical implementation for drilling and completions operations, grounded in a real, public well archive
+- Systems where every generated answer cites its source
+- Lessons-learned extraction and human-in-the-loop review workflows
+- Practical implementation grounded in a real, public well archive
 
 [Read online](https://djimrastephane.github.io/ddr-rag-book/) · [Source & code](https://github.com/djimrastephane/ddr-rag-book)
 
 ---
 
-## 👨‍💻 About Me
-
-- 🛢️ **Field operations:** 17+ years in Completions, Well Intervention, Sand Control, Hydraulic Fracturing, and Production Enhancement, across multiple countries and operators
-- 🎓 **Data science:** MSc Data Science, applied to engineering and operational problems rather than generic modelling exercises
-- 🤖 **Industrial AI:** building AI-powered operational intelligence systems — RAG, hybrid search, knowledge extraction — for engineering workflows
-- ✍️ **Technical author:** published on applying RAG and AI to drilling operations (see 📖 Author above)
-
----
-
-## 🚀 Current Projects
-
-### DDR Intelligence Platform
-
-AI-powered operational intelligence platform that transforms Daily Drilling Reports into structured engineering knowledge — semantic search, well similarity analysis, operational sequence mining, NPT precursor analysis, lessons-learned extraction, and traceable, evidence-backed recommendations.
-
-### MSc Thesis — [EvidenceRAG-Evaluation](https://github.com/djimrastephane/EvidenceRAG-Evaluation)
-
-Evaluating hybrid retrieval (BM25 + dense + Reciprocal Rank Fusion) for grounded question answering over long-form reports, with a reproducible retrieval evaluation harness and a hallucination-reduction focus.
-
-### Completion Campaign Intelligence
-
-Converts completion and hydraulic fracturing spreadsheets into searchable operational intelligence — automated ingestion, NLP-based engineering comment analysis, delay/failure analysis, and fleet performance benchmarking.
+🔭 **Currently building:** the DDR Intelligence Platform (drilling report semantic search, sequence mining, NPT precursor detection) and Completion Campaign Intelligence (NLP-driven completion/stimulation campaign analysis) — both in Featured Projects below, alongside my public and open-source work.
 
 ---
 
@@ -64,15 +42,15 @@ Converts completion and hydraulic fracturing spreadsheets into searchable operat
 
 ## 📂 Featured Projects
 
-| Project | Description | Access |
-|---|---|---|
-| [EvidenceRAG-Evaluation](https://github.com/djimrastephane/EvidenceRAG-Evaluation) | Hybrid dense + BM25 retrieval-augmented generation pipeline with a reproducible evaluation harness, built on PDF annual reports (MSc thesis project) | Public |
-| [Frac_Campaign_Planning](https://github.com/djimrastephane/Frac_Campaign_Planning) | Monte Carlo simulator for multi-pad hydraulic fracturing campaign planning, scheduling, risk, and scenario optimisation | Public |
-| [GP_Screens_Analysis](https://github.com/djimrastephane/GP_Screens_Analysis) | Computer vision pipeline for detecting, classifying, and quantifying failure modes on failed gravel pack screens | Public |
-| [AI Home Energy Intelligence Platform](https://github.com/djimrastephane/energy_ai) | Local-first, deterministic home energy analyst — weather-adjusted regression, 8-model forecasting, anomaly detection, and an evidence-cited Q&A consultant, no cloud or LLM required | Public |
-| DDR Intelligence Platform | AI-powered drilling report analytics, sequence mining, operational intelligence, and risk detection | Private — available on request |
-| Completion Campaign Intelligence | NLP-driven intelligence platform for completion and stimulation campaigns | Private — available on request |
-| CCS Well Integrity Intelligence | Data-informed risk assessment and intervention planning for CCS wells | Private — available on request |
+| Project | What it demonstrates | Stack | Access |
+|---|---|---|---|
+| [EvidenceRAG-Evaluation](https://github.com/djimrastephane/EvidenceRAG-Evaluation) | MSc thesis: hybrid retrieval evaluation harness (BM25 + dense + Reciprocal Rank Fusion) for grounded, citation-backed QA, with a hallucination-reduction focus | Python · FAISS · Sentence-Transformers · PyTorch | Public |
+| [Frac_Campaign_Planning](https://github.com/djimrastephane/Frac_Campaign_Planning) | Monte Carlo simulator for multi-pad hydraulic fracturing campaign scheduling, risk, and scenario optimisation | R · Shiny | Public |
+| [GP_Screens_Analysis](https://github.com/djimrastephane/GP_Screens_Analysis) | Computer vision pipeline detecting, classifying, and quantifying failure modes on failed gravel pack screens | Python · OpenCV · YOLO (Ultralytics) | Public |
+| [AI Home Energy Intelligence Platform](https://github.com/djimrastephane/energy_ai) | Local-first, deterministic home energy analyst — weather-adjusted regression, 8-model forecasting, anomaly detection, and an evidence-cited Q&A consultant, no cloud or LLM required | Python · Streamlit | Public |
+| [ccs-workover-forecast](https://github.com/djimrastephane/ccs-workover-forecast) | Reliability-driven Monte Carlo simulator for CCS well workover and intervention demand forecasting | Python · SciPy · lifelines · Streamlit | Public |
+| DDR Intelligence Platform | AI-powered drilling report analytics: sequence mining, NPT precursor detection, and semantic search | — | Private — available on request |
+| Completion Campaign Intelligence | NLP-driven intelligence platform for completion and stimulation campaigns | Python · NLP · Local LLM (Ollama) | Private — available on request |
 
 ---
 
@@ -84,18 +62,27 @@ Converts completion and hydraulic fracturing spreadsheets into searchable operat
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Open To
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=djimrastephane&show_icons=true&theme=default&hide_title=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djimrastephane&layout=compact)
+- Industrial / Energy AI collaborations — RAG, knowledge extraction, and operational-intelligence projects built on real reports and field data
+- Data science / applied AI roles in energy, operations, or engineering analytics
+- Technical writing, applied-AI education, and advisory work
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/djimrasoulanoudjingar
-- 📧 stephane.djimra@gmail.com
-- 🌍 Scotland, United Kingdom
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djimrasoulanoudjingar)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:stephane.djimra@gmail.com)
+
+🌍 Scotland, United Kingdom
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=djimrastephane&show_icons=true&theme=default&hide_title=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djimrastephane&layout=compact)
 
 ---
 
