@@ -3,7 +3,7 @@
 ### Industrial AI for Energy Operations | Data Scientist | Completions & Well Intervention Engineer | Author
 
 ![Profile views](https://komarev.com/ghpvc/?username=djimrastephane&color=blue&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djimra-stephane-soulanoudjingar-3078a055)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djimrasoulanoudjingar)
 
 **Industrial AI for Energy Operations.** I combine 17+ years of completions and well intervention experience with an MSc in Data Science to build AI systems that turn operational reports and engineering knowledge into traceable, evidence-backed decision support — built for the constraints of real drilling and completions operations, not generic machine learning demos.
 
@@ -93,7 +93,7 @@ Converts completion and hydraulic fracturing spreadsheets into searchable operat
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/djimra-stephane-soulanoudjingar-3078a055
+- 💼 LinkedIn: https://www.linkedin.com/in/djimrasoulanoudjingar
 - 📧 stephane.djimra@gmail.com
 - 🌍 Scotland, United Kingdom
 
